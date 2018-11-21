@@ -1,0 +1,38 @@
+<div class="content">
+  <div clas="container"></div>
+  <div class="subTable">
+    <div class=" leaderboard col bs-component">
+      <h1 class="text-primary">Subcategories</h1>
+      <div class="sbCat">
+        <button class="btn btn-outline-primary" (click)="addSubcategory()">
+          <i class="fa fa-pencil"></i> Add</button>
+      </div>
+    </div>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Title</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let s of subCategories$ | async; let ind = index;">
+          <th>{{ind+1}}</th>
+          <th>{{s.title}}</th>
+
+          <th>
+            <button class="btn btn-outline-warning" (click)="editSubcategory(s.id, s.title)">
+              <i class="fa fa-edit"></i> Edit</button>
+            <button class="btn btn-outline-danger" (click)="deleteSubcategory(s.id)">
+              <i class="fa fa-times"></i> Delete</button>
+          </th>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+
+

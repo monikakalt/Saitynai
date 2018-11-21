@@ -1,0 +1,70 @@
+<div class="content">
+  <div class="container">
+    <div class="row">
+      <div class="col-md top">
+        <div class="row">
+          <div class=" leaderboard col bs-component">
+            <h1 class="text-primary">Leaderboard</h1>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="top col bs-component">
+            <h2 class="text-primary">TOP 5</h2>
+          </div>
+        </div>
+
+        <div class="user">
+          <ul id="jogadores" *ngFor="let u of sortedUsers$; let i=index" (click)="routeToUser(u.id)">
+            <li class="user" *ngIf="i<5">
+              <img class="gravatar" src="{{u.imgUrl}}" />
+              <div class="progressBar">
+                <span class="user" [ngStyle]="{ 'height': getPoints(i, sortedUsers$[0].points) , 'background': getRandomColor()}" ngDefaultControl>
+                  <b>{{u.points}}</b>
+                </span>
+              </div>
+              <span class="username">
+                <strong>{{u.username.substring(0, 7)}}</strong>
+              </span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="row jumbotron">
+      <div class=" top col bs-component">
+        <h2 class="text-primary">All users</h2>
+      </div>
+
+
+      <table class="table">
+        <tr>
+          <th style="width: 20px;">PLACE</th>
+          <th>USER</th>
+          <th>EXP</th>
+          <th>LEVEL</th>
+        </tr>
+        <tr *ngFor="let u of sortedUsers$; let i=index;" (click)="routeToUser(u.id)">
+          <td>{{i+1}}</td>
+          <td>
+            <img class="gravatar" style="width: 35px; height: 35px; margin-right: 10px;" src="{{u.imgUrl}}" />{{u.username}}
+          </td>
+          <td>
+            {{u.points}}
+          </td>
+          <td>
+            {{u.level}}
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <!-- <ngb-pagination [collectionSize]="70" [(page)]="page" aria-label="Default pagination"></ngb-pagination> -->
+
+</div>
+<app-footer></app-footer>
+<script>
+
+
+</script>

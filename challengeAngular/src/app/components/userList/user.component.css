@@ -1,0 +1,128 @@
+.gravatar {
+  width: 80px;
+  border-radius: 50%;
+}
+
+.top {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+li, td {
+  cursor: pointer;
+}
+
+.leaderboard {
+  text-align: center;
+}
+
+
+#jogadores li {
+    width:100px;
+    height:350px;
+    float:left;
+    margin:0 10px;
+}
+#jogadores li img {
+    display:block;
+    width:65px;
+    height:65px;
+    border-radius:50%;
+    margin:0 auto 10px;
+    border:2px solid #fff;
+-moz-box-shadow: 1px 2px 5px 0px #888 ;
+-webkit-box-shadow: 1px 2px 5px 0px #888 ;
+box-shadow: 1px 2px 5px 0px #888 ;
+}
+#jogadores li .progressBar {
+    position:relative;
+    width:75px;
+    height:225px;
+    margin:0 auto;
+    background:#ebebeb;
+    -moz-border-radius: 3px 3px 0px 0px;
+    -webkit-border-radius: 3px 3px 0px 0px;
+    border-radius: 3px 3px 0px 0px;
+}
+#jogadores li .progressBar span {
+    position:absolute;
+    bottom:1px;
+    left:0;
+    width:75px;
+    height:100px;
+    text-align:center;
+    background:#000;
+    -moz-border-radius: 3px 3px 0px 0px;
+    -webkit-border-radius: 3px 3px 0px 0px;
+    border-radius: 3px 3px 0px 0px;
+    -webkit-transition: 5s all;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-name: animationProgress;
+}
+#jogadores li .progressBar span i {
+    font-family:Georgia;
+    font-size:18px;
+    color:#fff;
+    -webkit-transition: 5s all;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-name: animationNumberProgress;
+    transition: 5s all;
+    animation-duration: 5s;
+    animation-name: animationNumberProgress;
+}
+#jogadores li .progressBar span b {
+    position:absolute;
+    top:-20px;
+    left:10px;
+    font-family:Georgia;
+    font-size:13px;
+    font-weight:500;
+    color:#000;
+    text-align:center;
+}
+
+span {
+  display: inline-block;
+}
+
+ul {
+  color: #000;
+}
+
+#jogadores li .username {
+    display:block;
+    width:75px;
+    height:35px;
+    padding-top:5px;
+    margin:0 auto;
+    font-family:Arial, Helvetica, Sans-serif;
+    font-size:12px;
+    color:#fff;
+    text-align:center;
+    background:#222;
+    -moz-border-radius: 0px 0px 3px 3px;
+    -webkit-border-radius: 0px 0px 3px 3px;
+    border-radius: 0px 0px 3px 3px;
+}
+#jogadores li .name strong {
+    display:block;
+    font-weight:700;
+}
+.percentual {
+    -webkit-transition: 2.5s all;
+    -webkit-animation-duration: 2.5s;
+    -webkit-animation-name: animationProgress;
+    transition: 2.5s all;
+    animation-duration: 2.5s;
+    animation-name: animationProgress;
+}
+@-webkit-keyframes animationProgress {
+    from {
+        height:0;
+    }
+}
+@keyframes animationProgress {
+    from {
+        height:0;
+    }
+}

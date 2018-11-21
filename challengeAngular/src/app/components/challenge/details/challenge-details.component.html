@@ -1,0 +1,83 @@
+<div class="content">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-sm-9 bs-component">
+        <h1 class="text-primary">{{challengeInfo.title}}</h1>
+      </div>
+      <div class="col-sm-3 bs-component text-right">
+        <button class="btn btn-outline-success" (click)="startChallenge(challengeInfo.id)" [disabled]="Disabled()" *ngIf="isAuthenticated()">{{accept}}</button>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4 col-12">
+        <img src="{{challengeInfo.imgUrl}}" class="rounded float-left img-challenge-details" alt="...">
+      </div>
+
+
+      <div class="col-sm-8 col-12">
+        <div class="row">
+          <div class="col-sm-3 col-6 bs-component">
+            <h4 class="label text-muted text-right">Category</h4>
+          </div>
+          <div *ngIf="categories$ | async; let categories$;" class="col">
+            <h4 class="label" style="color: whitesmoke">{{categories$[challengeInfo.category-1].title}}</h4>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-3 col-6 bs-component">
+            <h4 class="label text-muted text-right">Sub category</h4>
+          </div>
+          <div *ngIf="subCategories$ | async; let subCategories$;" class="col">
+            <h4 class="label " style="color: whitesmoke">{{subCategories$[challengeInfo.subcategory-1].title}}</h4>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-3 col-6 bs-component">
+            <h4 class="label text-muted text-right">Days needed</h4>
+          </div>
+          <div class="col">
+            <h4 class="label" style="color: whitesmoke">{{challengeInfo.daysNeeded}} days</h4>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-3 col-6 bs-component">
+            <h4 class="label text-muted text-right">Reward</h4>
+          </div>
+          <div class="col">
+            <h4 class="label" style="color: whitesmoke">{{challengeInfo.reward}} exp</h4>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-3 col-6 bs-component">
+            <h4 class="label text-muted text-right">Difficulty</h4>
+          </div>
+          <div class="col" style="color: whitesmoke">
+            <h4>
+              <ngb-rating [readonly]="true" max="5" [rate]="challengeInfo.difficulty"></ngb-rating>
+            </h4>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-3 col-6 bs-component">
+            <h4 class="label text-muted text-right">Created</h4>
+          </div>
+          <div class="col" style="color: whitesmoke">
+            <h4 class="label" style="color: whitesmoke">{{challengeInfo.createdAt.substring(0, 10)}}</h4>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <br/>
+    <div class="row">
+      <div class="col">
+        <h4>Description</h4>
+        <p>{{challengeInfo.instructions}}</p>
+      </div>
+    </div>
+    <br/>
+
+  </div>
+
+</div>

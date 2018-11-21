@@ -1,0 +1,178 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Monika",
+      "username": "monika",
+      "email": "kaltenytmonika3@gmail.com",
+      "imgUrl": "https://s.gravatar.com/avatar/9f207f9e4b641de3fc8674f217966711?s=80",
+      "points": 200,
+      "level": 5,
+      "challenges": [
+        {
+          "id": 1,
+          "title": "Running"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "Kristina",
+      "username": "kriste",
+      "email": "kristina@gmail.com",
+      "imgUrl": "",
+      "points": 0,
+      "level": 4,
+      "challenges": [
+        {
+          "id": 2,
+          "title": "Partying"
+        },
+        {
+          "id": 3,
+          "name": "Programming"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "Ignas",
+      "username": "ignas",
+      "email": "ignas@gmail.com",
+      "imgUrl": "",
+      "points": 0,
+      "level": 5,
+      "challenges": []
+    }
+  ],
+  "challenges": [
+    {
+      "id": 1,
+      "title": "Run till you're dead",
+      "created_at": "",
+      "daysNeeded": 30,
+      "Reward": 200,
+      "Difficulty": 3,
+      "completedBy": 1651,
+      "start": 5,
+      "end": 1,
+      "imgUrl": "http://www.myfacemybody.com/wp-content/uploads/2009/08/runing-282x300.jpg",
+      "category": 1,
+      "subcategory": 1
+    },
+    {
+      "id": 2,
+      "title": "Party Monster",
+      "created_at": "",
+      "daysNeeded": 30,
+      "Reward": 200,
+      "Difficulty": 3,
+      "completedBy": 16511,
+      "start": 5,
+      "end": 1,
+      "imgUrl": "http://www.djsonnyproductions.com/wp-content/uploads/2015/06/house-party-300x300.jpg",
+      "category": 2,
+      "subcategory": 2
+    },
+    {
+      "id": 3,
+      "title": "Do you even javascript?",
+      "created_at": "",
+      "daysNeeded": 30,
+      "Reward": 200,
+      "Difficulty": 3,
+      "completedBy": 51,
+      "start": 5,
+      "end": 1,
+      "imgUrl": "https://cdn-images-1.medium.com/max/300/1*yYcXoIyTb8JlZUsmRXNm3g.png",
+      "category": 1,
+      "subcategory": 2
+    },
+    {
+      "id": 4,
+      "title": "Code master",
+      "created_at": "",
+      "daysNeeded": 30,
+      "Reward": 200,
+      "Difficulty": 3,
+      "completedBy": 2877,
+      "start": 5,
+      "end": 1,
+      "imgUrl": "https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1",
+      "category": 1,
+      "subcategory": 2
+    },
+    {
+      "id": 5,
+      "title": "Programming challenge",
+      "created_at": "",
+      "daysNeeded": 30,
+      "Reward": 200,
+      "Difficulty": 3,
+      "completedBy": 5,
+      "start": 5,
+      "end": 1,
+      "imgUrl": "https://cdn-images-1.medium.com/max/2000/1*cCdSJ0mOqjQkm-soL5hlIw.jpeg",
+      "category": 1,
+      "subcategory": 2
+    },
+    {
+      "id": 6,
+      "title": "Python debbuger",
+      "created_at": "",
+      "daysNeeded": 30,
+      "Reward": 200,
+      "Difficulty": 3,
+      "completedBy": 2111,
+      "start": 5,
+      "end": 1,
+      "imgUrl": "https://cdn-images-1.medium.com/max/1217/1*ueWmI48uuShON-hX7LwI0w.png",
+      "category": 1,
+      "subcategory": 2
+    },
+    {
+      "id": 7,
+      "title": "Horror of code",
+      "created_at": "",
+      "daysNeeded": 30,
+      "Reward": 200,
+      "Difficulty": 3,
+      "completedBy": 72541,
+      "start": 5,
+      "end": 1,
+      "imgUrl": "https://blog.codinghorror.com/content/images/uploads/2006/08/6a0120a85dcdae970b0120a86d6c5b970b-pi.gif",
+      "category": 1,
+      "subcategory": 2
+    },
+    {
+      "Difficulty": 3,
+      "subcategory": "1",
+      "title": "First 5k",
+      "daysNeeded": 30,
+      "Reward": 500,
+      "imgUrl": "https://cdn.thewirecutter.com/wp-content/uploads/2017/08/03-running-gear-tying-shoes-630.jpg",
+      "category": 2,
+      "id": 8
+    }
+  ],
+  "challenges-categories": [
+    {
+      "id": 1,
+      "title": "Official"
+    },
+    {
+      "id": 2,
+      "title": "User Created"
+    }
+  ],
+  "challenges-subcategories": [
+    {
+      "id": 1,
+      "title": "Running"
+    },
+    {
+      "id": 2,
+      "title": "Programming"
+    }
+  ]
+}

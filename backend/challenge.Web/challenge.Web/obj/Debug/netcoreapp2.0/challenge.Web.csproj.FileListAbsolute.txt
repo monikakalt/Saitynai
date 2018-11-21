@@ -1,0 +1,95 @@
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.deps.json
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.json
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.dev.json
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.dll
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.pdb
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CoreCompileInputs.cache
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfoInputs.cache
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfo.cs
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.dll
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.pdb
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.dll
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.dll
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.pdb
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.pdb
+C:\Users\Monika\Desktop\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CopyComplete
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.deps.json
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.json
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.dev.json
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.dll
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.pdb
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.dll
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.dll
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.pdb
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.pdb
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CoreCompileInputs.cache
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfoInputs.cache
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfo.cs
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CopyComplete
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.dll
+C:\Users\Monika\Desktop\nrd Projektas\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.pdb
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.deps.json
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.json
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.dev.json
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.dll
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.pdb
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.dll
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.dll
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.pdb
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.pdb
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CoreCompileInputs.cache
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfoInputs.cache
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfo.cs
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CopyComplete
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.dll
+C:\Users\Monika\Desktop\PROJEKTAS\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.pdb
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.deps.json
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.json
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.dev.json
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.dll
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.pdb
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.dll
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.dll
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.pdb
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.pdb
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfoInputs.cache
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfo.cs
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CopyComplete
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.dll
+C:\Users\Ingas\Desktop\NRD Challenge\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.pdb
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.deps.json
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.json
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.dev.json
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.dll
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.pdb
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.dll
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.dll
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.pdb
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.pdb
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csprojResolveAssemblyReference.cache
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CoreCompileInputs.cache
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfoInputs.cache
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfo.cs
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.dll
+D:\NRD_akademija\nrd_akademija\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.pdb
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.deps.json
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.json
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.runtimeconfig.dev.json
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.dll
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Web.pdb
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.dll
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.dll
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.Application.pdb
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\bin\Debug\netcoreapp2.0\challenge.EF.pdb
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csprojAssemblyReference.cache
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CoreCompileInputs.cache
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfoInputs.cache
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.AssemblyInfo.cs
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.csproj.CopyComplete
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.dll
+C:\Users\Monika\Desktop\isttrinti\challange\backend\challenge.Web\challenge.Web\obj\Debug\netcoreapp2.0\challenge.Web.pdb
